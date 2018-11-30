@@ -1,5 +1,5 @@
 ﻿
-Sitecore Commerce Engine Customize Ordernumber plugin
+Sitecore Commerce Engine Customize Ordernumber plugin (Sitecore Commerce 9)
 ======================================
 
 This plugin allows the user to customize order number. At the moment, Commerce Engine returns random random strings that is 8 characters long 
@@ -18,8 +18,7 @@ How to Install
 1. Copy it to your Sitecore Commerce Engine Solution and add it as a project 
 
 
-2. Add it as a dependency to your Adventure works or Habitat or Custom Site plugin' project.json file by adding the line below
-    "Sitecore.Plugin.CustomOrderNumber": "1.0.1"
+2. Add it as a dependency to your Adventure works or Habitat or Custom Site plugin' project
 
 3. To your ServiceCollectionExtensions.cs class, add the line below towards the end:
 
