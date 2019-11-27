@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <VersionPrefix>1.0.1</VersionPrefix>
-    <TargetFramework>net462</TargetFramework>
+    <TargetFramework>net471</TargetFramework>
     <AssemblyName>Sitecore.Plugin.CustomOrderNumber</AssemblyName>
     <PackageId>Sitecore.Plugin.CustomOrderNumber</PackageId>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
@@ -16,9 +16,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Sitecore.Commerce.Core" Version="2.2.29" />
-    <PackageReference Include="Sitecore.Commerce.Plugin.Catalog" Version="2.2.46" />
-    <PackageReference Include="Sitecore.Commerce.Plugin.Orders" Version="2.2.22" />
+    <PackageReference Include="Sitecore.Commerce.Core" Version="3.0.17" />
+    <PackageReference Include="Sitecore.Commerce.Plugin.Catalog" Version="3.0.15" />
+    <PackageReference Include="Sitecore.Commerce.Plugin.Orders" Version="3.0.10" />
   </ItemGroup>
 
 </Project>
