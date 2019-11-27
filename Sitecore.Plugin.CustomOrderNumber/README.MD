@@ -1,5 +1,5 @@
 ﻿
-Sitecore Commerce Engine Customize Ordernumber plugin (Sitecore Commerce 9.1)
+Sitecore Commerce Engine Customize Ordernumber plugin (Sitecore Experience Commerce 9.1)
 ======================================
 
 This plugin allows the user to customize order number. At the moment, Commerce Engine returns random random strings that is 8 characters long 
